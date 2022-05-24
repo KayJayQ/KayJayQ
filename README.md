@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KayJayQiang
+- 👋 Hi, I’m @KayJayQ
 - 👀 I’m interested in embedded software/IoT, computer graphics, block chain
 - 🌱 I’m currently learning ethereum
 - 💞️ I’m looking to collaborate on...
